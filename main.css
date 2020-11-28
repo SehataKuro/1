@@ -1,0 +1,37 @@
+html {
+    background: #FFC8BE;
+    
+    -webkit-font-smoothing: antialiased;
+}
+
+body {
+    background: #FFC8BE;
+    box-shadow: 0 0 2px rgba(0, 0, 0, 0.06);
+    color: #545454;
+    font-family: "arial black", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin:  auto;
+    max-width: auto;
+    padding: 2em 2em 4em;
+    width:700px;
+    margin-right: auto;
+    margin-left : auto;
+}
+
+h1, h2, h3, h4 {
+    background: #FDE7C1;
+    color: #545454;
+    font-family: "arial black", Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    margin:  30px;
+    max-width: auto;
+    padding: 20px;
+    text-align: center;
+    float: left;
+}
+
+        filter: grayscale(0%);
+    }
+}
